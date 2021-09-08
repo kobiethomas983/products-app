@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+node_modules
+.idea
+SECRET/**
+.idea/**
+/nbproject/
+/tmp
+/.nyc_output/
+/coverage/
+/swagger/*.jar
+/swagger/api-client-java
+*.orig
+github-ssh.pem
